@@ -3,10 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://latex.now.sh/style.min.css" />
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+    figure img {
+        margin: 0 auto;
+    }
+    
+    img#portrait {
+        border-radius: 50%;
+    }
+
+    figure p {
+        text-align: center;
+    }
+
+    footer hr {
+        max-width: 150px;
+        margin-left: 0;
+        margin-top: 50px;
+        border: none;
+        border-top: 1px solid;
+    }
+
+    footer ol {
+        list-style: none; /* Removes default list styling */
+        counter-reset: list-counter; /* Creates a counter for our list */
+    }
+
+    footer ol li {
+        counter-increment: list-counter; /* Increments the counter by 1 for each list item */
+        position: relative; /* Allows absolute positioning of the pseudo-element */
+    }
+
+    footer ol li::before {
+        content: counter(list-counter);
+        position: absolute;
+        left: -10px;
+        top: 0.5em;
+        font-size: 0.75em;
+        line-height: 0;
+        vertical-align: super;
+    }
+    </style>
     <title>Anna Lina Petrusevičiūtė Sjur</title>
 </head>
-<body>
-    <h1>Hello!</h1>
-    <p>I'm a PhD student researching Arctic Ocean currents.</p>
+<body class=latex-dark-auto>
+    <article>
+        <h1>Hello!</h1>
+        <p class=author>Anna Lina Petrusevičiūtė Sjur</p>
+        <p class=abstract>I’m a PhD student at the University of Oslo, researching Arctic Ocean currents.</p>
+        <figure>
+            <img id=portrait src="anote-linote.jpeg" alt="Anote Linote" style="max-width: 200px;">
+            <p class=caption>Figure 1: In action, taking obervations.</p>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>$$\oint_H H \bar{\mathbf{u}} \cdot \hat{\mathbf{t}} \ dl = \oint_H \mathbf{\tau}_s \cdot \hat{\mathbf{t}} \ dl - \oint_H R \ \mathbf{u}_b \cdot \hat{\mathbf{t}} \ dl.$$</p>
+    </div>
+    </article>
+    <footer>
+        <hr />
+        <ol>
+            <li><a href="https://github.com/alpsjur">GitHub</a>.</li>
+            <li><a href="https://www.mn.uio.no/geo/english/people/aca/metos/alsjur/">University of Oslo</a>.</li>
+        </ol>
+    </footer>
 </body>
 </html>
