@@ -27,4 +27,4 @@ title: Portfolio
 
 ## Selected Outreach & Communication
 
-*2025* --- *Finner turbulens og uvær i havstrømmene*. Interview in UiO's popular science research magazine. Available at [titan.uio.no](https://titan.uio.no)
+*2025* --- *Finner turbulens og uvær i havstrømmene*. Interview in UiO's popular science research magazine. Available at [titan.uio.no]([https://titan.uio.no](https://www.titan.uio.no/naturvitenskap/2025/finner-turbulens-og-uver-i-havstrommene.html))
