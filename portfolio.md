@@ -7,9 +7,11 @@ title: Portfolio
 
 ## Publications
 
-*2025* --- Shaun Johnston, **Anna Lina Petrusevičiūtė Sjur**, Pål Erik Isachsen, Joseph Henry LaCasce. *Eddy- and wind-driven circulation in the enclosed basins of the Norwegian Sea evaluated using a model and absolute geostrophic flow from Argo*. Journal of Geophysical Research: Oceans, 130(7), [DOI: 2024JC021990](https://doi.org/10.1029/2024JC021990).
+*2026* --- **Anna Lina Petrusevičiūtė Sjur**, Pål Erik Isachsen, Johan Nilsson, Susan Allen. _Nonlinear dynamics of time-variable slope circulation_. EGUsphere [preprint]. [DOI: 10.5194/egusphere-2026-778](https://doi.org/10.5194/egusphere-2026-778)
 
-*2025* --- **Anna Lina Petrusevičiūtė Sjur**, Pål Erik Isachsen, Johan Nilsson, Joseph Henry LaCasce, Magnus Dyrmose Ryseth. *The wind-driven time-variable circulation in the Arctic Mediterranean*. Journal of Geophysical Research: Oceans, 130(4), [DOI: 2024JC021713](https://doi.org/10.1029/2024JC021713).
+*2025* --- Shaun Johnston, **Anna Lina Petrusevičiūtė Sjur**, Pål Erik Isachsen, Joseph Henry LaCasce. *Eddy- and wind-driven circulation in the enclosed basins of the Norwegian Sea evaluated using a model and absolute geostrophic flow from Argo*. Journal of Geophysical Research: Oceans, 130(7), [DOI: 10.1029/2024JC021990](https://doi.org/10.1029/2024JC021990).
+
+*2025* --- **Anna Lina Petrusevičiūtė Sjur**, Pål Erik Isachsen, Johan Nilsson, Joseph Henry LaCasce, Magnus Dyrmose Ryseth. *The wind-driven time-variable circulation in the Arctic Mediterranean*. Journal of Geophysical Research: Oceans, 130(4), [DOI: 10.1029/2024JC021713](https://doi.org/10.1029/2024JC021713).
 
 ## Presentations & Talks
 
@@ -23,7 +25,7 @@ title: Portfolio
 
 ## Other Work
 
-*2025* --- [Combining Neural Networks and Physics](assets/files/combining_nn_physics.pdf). Course presentation on NeuralGCM, a hybrid approach combining physics-based dynamical cores with learned parameterizations for weather and climate predictions.
+*2025* --- [Combining Neural Networks and Physics](assets/files/combining_nn_physics.pdf). Course presentation on NeuralGCM, a hybrid approach combining physics-based dynamical cores with learned parameterisations for weather and climate predictions.
 
 ## Selected Outreach & Communication
 
